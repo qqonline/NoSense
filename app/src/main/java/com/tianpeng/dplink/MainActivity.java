@@ -17,7 +17,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-import com.tianpeng.sdplink.SDPSDK;
+import com.tianpeng.sdplink.entity.SDPSDK;
 
 import java.util.ArrayList;
 import java.util.List;
